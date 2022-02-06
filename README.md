@@ -5,7 +5,9 @@
 -  💞️I’m looking to collaborate with other developers 
 -  📫 You Can reach me on
       dinatayel913@gmail.com
+ ## quotes i believe in
  -    No Pain No Gain
+ -    if you don't Heal What Hurt You, You'll Bleed On People Who didn't Cut You
 
 
 
