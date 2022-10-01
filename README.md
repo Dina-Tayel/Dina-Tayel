@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Tayel</h1>
-<h3 align="center">A fresh back-end developer from cairo</h3>
+<h3 align="center">junior back-end developer from cairo</h3>
 
 - 🔭 I’m currently working on **Skills assessment hub**
 
